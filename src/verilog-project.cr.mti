@@ -1,0 +1,15 @@
+E:/verilog-code/receiver-tb.v {1 {vlog -work work -vopt -stats=none E:/verilog-code/receiver-tb.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module receiver_tb
+
+Top level modules:
+	receiver_tb
+
+} {} {}} E:/verilog-code/receiver.v {1 {vlog -work work -vopt -stats=none E:/verilog-code/receiver.v
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module receiver
+
+Top level modules:
+	receiver
+
+} {} {}}

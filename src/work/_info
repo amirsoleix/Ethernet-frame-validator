@@ -1,0 +1,66 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2019.4/examples
+T_opt
+!s110 1612846681
+Vd8cMoQY0Zm2>NF6ho_Cfo0
+04 11 4 work receiver_tb fast 0
+=1-e4e749363224-60221659-127-2524
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2019.4;69
+vreceiver
+Z1 !s110 1612846667
+!i10b 1
+!s100 o^m389R>I6Ge5CV4Sc8gW3
+!s11b n;:ET[ijVFN9@Qe0^ijm?3
+Ig4P_cE^U4VAfH@G@gmc131
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/verilog-code
+w1612846648
+8E:/verilog-code/receiver.v
+FE:/verilog-code/receiver.v
+!i122 -1
+L0 1
+Z4 OL;L;2019.4;69
+r1
+!s85 0
+31
+Z5 !s108 1612846667.000000
+!s107 E:/verilog-code/receiver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/verilog-code/receiver.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vreceiver_tb
+R1
+!i10b 1
+!s100 EcgMYA2f_f9M[b2kKXXNQ1
+!s11b aLnU;04j1CA<SglCR=QnT2
+IoHh@6Kj3^?LSnTJG<I_NB1
+R2
+R3
+w1612846529
+8E:/verilog-code/receiver-tb.v
+FE:/verilog-code/receiver-tb.v
+!i122 -1
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/verilog-code/receiver-tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/verilog-code/receiver-tb.v|
+!i113 0
+R6
+R0
